@@ -16,9 +16,7 @@
                     
 			<nav>
 				<ul>
-                    
-
-					<li><a href="index.php">Hem</a></li>
+					<li><a href="/EnviromentCrime/index.php">Hem</a></li>
 					<li><a href="citizen/about/services.html">Tjänster</a></li>
 					<li><a href="citizen/about/faq.html">FAQ</a></li>
 					<li><a href="citizen/about/contact.php">Kontakt</a></li>
