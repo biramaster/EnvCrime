@@ -1,5 +1,5 @@
 ﻿<?php
-include("incl/header.php");  
+include("../../incl/header.php");  
 ?>
 
 			<div id="content">
@@ -23,5 +23,5 @@ include("incl/header.php");
 				</aside><!-- End Right -->
 
 <?php
-include("incl/footer.php");  
+include("../../incl/footer.php");  
 ?>
