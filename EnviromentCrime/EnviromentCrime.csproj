@@ -60,6 +60,8 @@
     <Content Include="images\Thumbs.db" />
     <Content Include="incl\header.php" />
     <Content Include="incl\footer.php" />
+    <Content Include="coordinator\incl\footer.php" />
+    <Content Include="coordinator\incl\header.php" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -73,7 +75,7 @@
     <None Include="citizen\about\services.php" />
     <None Include="citizen\thanks.php" />
     <None Include="citizen\validate.php" />
-    <Content Include="coordinator\crimeCoordinator.html" />
+    <None Include="coordinator\crimeCoordinator.php" />
     <Content Include="coordinator\reportCrime.html" />
     <Content Include="coordinator\startCoordinator.html" />
     <Content Include="coordinator\thanks.html" />
