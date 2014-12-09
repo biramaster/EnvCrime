@@ -18,10 +18,10 @@
 				<ul>
                     
 
-					<li><a href="index.html">Hem</a></li>
+					<li><a href="index.php">Hem</a></li>
 					<li><a href="citizen/about/services.html">Tjänster</a></li>
 					<li><a href="citizen/about/faq.html">FAQ</a></li>
-					<li><a href="citizen/about/contact.html">Kontakt</a></li>
+					<li><a href="citizen/about/contact.php">Kontakt</a></li>
 					<li class="right"><a class="login" href="login.html">Logga in (endast personal)</a></li>
 				</ul>
 			</nav><!-- End Nav -->
