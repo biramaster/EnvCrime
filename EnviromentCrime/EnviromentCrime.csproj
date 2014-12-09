@@ -68,9 +68,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="citizen\about\contact.html" />
+    <None Include="citizen\about\contact.php" />
     <Content Include="citizen\about\faq.html" />
-    <Content Include="citizen\about\services.html" />
+    <None Include="citizen\about\services.php" />
     <None Include="citizen\thanks.php" />
     <None Include="citizen\validate.php" />
     <Content Include="coordinator\crimeCoordinator.html" />
