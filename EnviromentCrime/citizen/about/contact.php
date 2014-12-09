@@ -1,5 +1,6 @@
 ﻿<?php
-include("../../incl/header.php");  
+$folder="../../";
+include($folder . "incl/header.php");  
 ?>
 
 			<div id="content">
@@ -23,5 +24,5 @@ include("../../incl/header.php");
 				</aside><!-- End Right -->
 
 <?php
-include("../../incl/footer.php");  
+include($folder . "incl/footer.php");  
 ?>

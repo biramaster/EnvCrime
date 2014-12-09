@@ -1,4 +1,5 @@
 ﻿<?php
+$folder="";
 include("incl/header.php");  
 ?>
 

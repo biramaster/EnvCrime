@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="UTF-8"/>
 		<title>Småstads kommun</title>
-		<link rel="stylesheet" href="stylesheet/style.css" />
+		<link rel="stylesheet" href="<?php echo $folder; ?>stylesheet/style.css" />
 	</head>
 
 	<body>
