@@ -21,7 +21,7 @@ include("../incl/header.php");
 					<img src="../images/pic_5.jpg" height="162" alt="En åker vid första frosten" />
 					<img src="../images/pic_6.jpg" height="162" alt="Händer som håller i jord och en liten planta" />
 					<img src="../images/pic_7.jpg" height="162" alt="Barn liggandes på gräsmatta" />
-					<img src="../images/pic_8.jpg" height="162" alt="Närbild av en fotboll" />
+					<img src="../images/pic_8.jpg" height="162" alt="Närbild av en fotbollboll" />
 				</aside><!-- End Right -->
 
         <?php
