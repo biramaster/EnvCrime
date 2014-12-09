@@ -24,6 +24,6 @@
 					<img src="../images/pic_7.jpg" height="162" alt="Barn liggandes på gräsmatta" />
 					<img src="../images/pic_8.jpg" height="162" alt="Närbild av en fotboll" />
 				</aside><!-- End Right -->
-	  
+	            <!-- asdaff -->
 <?php include("../incl/footer.php");
 ?>
