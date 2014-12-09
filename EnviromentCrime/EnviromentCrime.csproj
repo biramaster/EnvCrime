@@ -73,6 +73,8 @@
     <Content Include="citizen\about\services.html" />
     <None Include="citizen\thanks.php" />
     <Content Include="citizen\validate.html" />
+    <Content Include="citizen\thanks.html" />
+    <None Include="citizen\validate.php" />
     <Content Include="coordinator\crimeCoordinator.html" />
     <Content Include="coordinator\reportCrime.html" />
     <Content Include="coordinator\startCoordinator.html" />
