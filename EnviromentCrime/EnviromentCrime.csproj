@@ -72,7 +72,7 @@
     <Content Include="citizen\about\faq.html" />
     <Content Include="citizen\about\services.html" />
     <Content Include="citizen\thanks.html" />
-    <Content Include="citizen\validate.html" />
+    <None Include="citizen\validate.php" />
     <Content Include="coordinator\crimeCoordinator.html" />
     <Content Include="coordinator\reportCrime.html" />
     <Content Include="coordinator\startCoordinator.html" />
