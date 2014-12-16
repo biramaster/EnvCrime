@@ -35,6 +35,7 @@ include($folder . "incl/header.php");
 					<img src="../../images/pic_8.jpg" height="162" alt="Närbild av en fotboll" />
 				</aside><!-- End Right -->
 
-        <?php
+<?php
 include($folder . "incl/footer.php");  
 ?>
+        
