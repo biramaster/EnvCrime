@@ -76,10 +76,10 @@
     <None Include="citizen\thanks.php" />
     <None Include="citizen\validate.php" />
     <None Include="coordinator\crimeCoordinator.php" />
-    <Content Include="coordinator\reportCrime.html" />
-    <Content Include="coordinator\startCoordinator.html" />
-    <Content Include="coordinator\thanks.html" />
-    <Content Include="coordinator\validate.html" />
+    <None Include="coordinator\reportCrime.php" />
+    <None Include="coordinator\startCoordinator.php" />
+    <None Include="coordinator\thanks.php" />
+    <None Include="coordinator\validate.php" />
     <Content Include="images\background.png" />
     <Content Include="images\background_darker.png" />
     <Content Include="images\button.png" />

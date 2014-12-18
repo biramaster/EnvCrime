@@ -1,5 +1,6 @@
 ﻿<?php
-include("../incl/header.php");
+$folder="../../";
+include($folder . "incl/header.php");
 ?>
 
 			<div id="content">
@@ -23,8 +24,8 @@ include("../incl/header.php");
         <img src="../../images/pic_7.jpg" height="162" alt="Barn liggandes på gräsmatta" />
         <img src="../../images/pic_8.jpg" height="162" alt="Närbild av en fotboll" />
     </aside><!-- End Right -->
-  
-                
-                  <?php
-    include("../incl/footer.php");
-    ?>
+
+
+        <?php
+include($folder . "incl/footer.php");  
+?>

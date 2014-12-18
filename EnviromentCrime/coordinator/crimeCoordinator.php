@@ -1,5 +1,7 @@
 ﻿<?php
-include("incl/header.php");
+$folder="/";
+$folderCSS="../";
+include($folder . "incl/header.php"); 
 ?>
 
 			<div id="content">
@@ -80,6 +82,6 @@ include("incl/header.php");
         <p><input class="button" type="submit" value="Spara" /></p>
     </section>
 
-    <?php
-    include("incl/footer.php");
-    ?>
+        <?php
+include($folder . "incl/footer.php"); 
+?>
