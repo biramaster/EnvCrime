@@ -63,6 +63,8 @@
     <Content Include="coordinator\incl\footer.php" />
     <Content Include="coordinator\incl\header.php" />
     <Content Include="citizen\about\faq.php" />
+    <Content Include="envcrime.sqlite" />
+    <Content Include="incl\func\function.php" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
